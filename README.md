@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola 👋
+- Estoy trabajando en aplicaciones personales por el momento
 
 <!--
 **mijel861999/mijel861999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
